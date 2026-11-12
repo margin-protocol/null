@@ -1,0 +1,34 @@
+# NULL｜無分類者
+
+> 《NULL》是創作者 Xia mumu 的原創近未來心理科幻互動敘事（繁體中文）。人格風險評估系統 PREDICT 能預測每個人的犯罪風險，唯獨主角的評估結果是「NULL｜無分類」。
+
+- 網址：https://xia-mumu.github.io/null/
+- 作者：[Xia mumu](https://xia-mumu.github.io/Off-Page/about.html)，作品入口：[岔頁 OFF PAGE](https://xia-mumu.github.io/Off-Page/)
+- 類型：心理科幻、制度懸疑、互動敘事
+- 遊玩：[cheliz.ai](https://www.cheliz.ai/zh-hant/gallery?utm_source=web_share&utm_medium=share_play&phandle=750s7iv0eh8qu8s1&enter_from=poster&invite_code=55RWFA)
+
+## 核心問題
+
+如果系統預測你會犯罪，你，到底有沒有罪？一個尚未犯下的罪，能否成為限制一個人的理由？風險不等於犯罪，預測不等於事實，評級不等於判決。
+
+## PREDICT 人格風險評估制度
+
+PREDICT 用於評估成年人未來發生重大傷害與犯罪行為之風險，分為 LOW（低風險，I）、MODERATE（中度風險，II）、HIGH（高風險，III）、CRITICAL（極高風險，IV）。評級不是判決，只是決策參考。系統無法建立穩定、可重現之有效分類時，結果為 NULL（無分類）——不是第五級，也不在 I 至 IV 之間——並建議人工複核。
+
+PREDICT 已運作多年，確實降低過重大犯罪、阻止過暴力事件，也確實有人因它而活下來。支持它的人不是反派，反對它擴張的人也不否認它救過人。
+
+## NULL 特別觀察計畫
+
+首例 NULL 出現後，中央風險治理辦公室成立跨專業特別觀察計畫，集合研究、心理、醫療、行政、安全與資料分析人員。它不是監獄，但也很難完全稱為自由。
+
+## 人物資料庫
+
+- 001｜Miran Veyss：PREDICT 人格風險校準官
+- 002｜Elaine Rovell：中央風險治理特別監察官
+- 003｜Noa Seiler：臨床心理師
+- 004｜Kael Vaughn：NULL 觀察機構安全主管
+- 005｜Sian Lorne：鐘錶修復師
+- 006｜Vera Kain：家具修復
+- 007｜Arthur Lind：市民服務中心職員
+- 008｜Rae Chen：PREDICT 維護工程師
+- 009｜Liane Hess：大學統計／公共政策副教授
