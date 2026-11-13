@@ -2,8 +2,8 @@
 
 > 《NULL》是創作者 Xia mumu 的原創近未來心理科幻互動敘事（繁體中文）。人格風險評估系統 PREDICT 能預測每個人的犯罪風險，唯獨主角的評估結果是「NULL｜無分類」。
 
-- 網址：https://xia-mumu.github.io/null/
-- 作者：[Xia mumu](https://xia-mumu.github.io/Off-Page/about.html)，作品入口：[岔頁 OFF PAGE](https://xia-mumu.github.io/Off-Page/)
+- 網址：https://margin-protocol.github.io/null/
+- 作者：[Xia mumu](https://margin-protocol.github.io/Off-Page/about.html)，作品入口：[岔頁 OFF PAGE](https://margin-protocol.github.io/Off-Page/)
 - 類型：心理科幻、制度懸疑、互動敘事
 - 遊玩：[cheliz.ai](https://www.cheliz.ai/zh-hant/gallery?utm_source=web_share&utm_medium=share_play&phandle=750s7iv0eh8qu8s1&enter_from=poster&invite_code=55RWFA)
 
